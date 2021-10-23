@@ -1,9 +1,9 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
     <head>
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
-        <meta name="description" content="engenheiro-de-software, programador" />
+        <meta name="description" content="Engenheiro-de-software, Programador, Web-developer, Programador-web" />
         <meta name="author" content="Gabriel" />
         <title>Gabriel Fernandes</title>
         <!-- Font Awesome icons (free version)-->
@@ -68,7 +68,7 @@
                             <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                                 <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
                             </div>
-                            <img class="img-fluid" src="image/Deploy.jpg" alt="..." />
+                            <img class="img-fluid" src="image/deploy.jpg" alt="..." />
                         </div>
                     </div>
                     <!-- Portfolio Item 2-->
