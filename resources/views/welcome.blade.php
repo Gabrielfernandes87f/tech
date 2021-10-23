@@ -193,7 +193,9 @@
         </section>
         --}}
         <!-- Footer-->
-        <footer class="footer text-center page-section bg-primary text-white mb-0" id="contact">
+
+
+        <footer class="footer text-center" id="contact">
             <div class="container">
                 <div class="row">
                     <!-- Footer Location-->
