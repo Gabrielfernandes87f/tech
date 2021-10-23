@@ -97,7 +97,7 @@
         <section class="page-section bg-primary text-white mb-0" id="about">
             <div class="container">
                 <!-- About Section Heading-->
-                <h2 class="page-section-heading text-center text-uppercase text-white">Sobre Min</h2>
+                <h2 class="page-section-heading text-center text-uppercase text-white">Sobre Mim</h2>
                 <!-- Icon Divider-->
                 <div class="divider-custom divider-light">
                     <div class="divider-custom-line"></div>
@@ -106,8 +106,8 @@
                 </div>
                 <!-- About Section Content-->
                 <div class="row">
-                    <div class="col-lg-4 ms-auto"><p class="lead">Sou um amante da tecnologia! é muito difícil resumir. trabalhei muito tempo como fotógrafo e há alguns anos tenho me dedicado em tempo integral a estudar programação web. Não podemos estudar todas as linguagens de uma vez, por ser apaixonado por tecnologia em breve quero estudar python pra construir umas coisas pra mim.</p></div>
-                    <div class="col-lg-4 me-auto"><p class="lead">Eu tenho me especializado em criar conteúdo do zero, toda parte de layout, back-end, front-end e toda parte de criar um servidor e colocar minhas aplicações no ar. Eu trabalho com framework Laravel, uso docker, cloudflare pra deixar ainda mais seguro meus projetos e uso serviço de hospedagem da Digital ocean.</p></div>
+                    <div class="col-lg-4 ms-auto"><p class="lead">Sou um amante da tecnologia! Trabalhei muito tempo como fotógrafo e há alguns anos tenho me dedicado em tempo integral a estudar programação web. Conheci Laravel, esse framework tão completo e com tantos níveis de seguração, com tudo isso foi facil escolher ele pra começar uma carreira na programação</p></div>
+                    <div class="col-lg-4 me-auto"><p class="lead">Eu tenho me especializado em criar conteúdo do zero, layout, back-end, front-end e toda parte de criar um servidor e colocar minhas aplicações no ar. Eu trabalho com framework Laravel, uso docker, cloudflare pra deixar ainda mais seguro meus projetos, uso serviço de hospedagem da Digital Ocean.</p></div>
                 </div>
                 <!-- About Section Button-->
                 <div class="text-center mt-4">
