@@ -107,7 +107,7 @@
                 <!-- About Section Content-->
                 <div class="row">
                     <div class="col-lg-4 ms-auto"><p class="lead">Sou um amante da tecnologia! Trabalhei muito tempo como fotógrafo e há alguns anos tenho me dedicado em tempo integral a estudar programação web. Conheci Laravel, esse framework tão completo e com tantos níveis de seguração, com tudo isso foi fácil escolher ele pra começar uma carreira na programação</p></div>
-                    <div class="col-lg-4 me-auto"><p class="lead">Eu tenho me especializado em criar conteúdo do zero, layout, back-end, front-end e toda parte de criar um servidor e colocar minhas aplicações no ar. Eu trabalho com framework Laravel, uso docker, cloudflare pra deixar ainda mais seguro meus projetos, uso serviço de hospedagem da Digital Ocean.</p></div>
+                    <div class="col-lg-4 me-auto"><p class="lead">Eu tenho me especializado em criar conteúdo do zero, layout, back-end, front-end e toda parte de criar um servidor e colocar minhas aplicações no ar. Eu trabalho com framework Laravel, uso docker, cloudflare pra deixar ainda mais seguro os meus projetos, uso serviço de hospedagem da Digital Ocean.</p></div>
                 </div>
                 <!-- About Section Button-->
                 <div class="text-center mt-4">
@@ -193,7 +193,7 @@
         </section>
         --}}
         <!-- Footer-->
-        <footer class="footer text-center">
+        <footer class="footer text-center" id="contact">
             <div class="container">
                 <div class="row">
                     <!-- Footer Location-->
