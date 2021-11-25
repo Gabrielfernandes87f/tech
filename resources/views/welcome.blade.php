@@ -25,9 +25,10 @@
                 </button>
                 <div class="collapse navbar-collapse" id="navbarResponsive">
                     <ul class="navbar-nav ms-auto">
-                        <li class="nav-item mx-0 mx-lg-1"><a class="nav-link py-3 px-0 px-lg-3 rounded" href="#portfolio">Certificados</a></li>
-                        <li class="nav-item mx-0 mx-lg-1"><a class="nav-link py-3 px-0 px-lg-3 rounded" href="#about">Sobre mim</a></li>
-                        <li class="nav-item mx-0 mx-lg-1"><a class="nav-link py-3 px-0 px-lg-3 rounded" href="#contact">Entre em contato</a></li>
+                        <li class="nav-item mx-0 mx-lg-1"><a class="nav-link py-3 px-0 px-lg-3 rounded" href="{{ route('/home#portfolio') }}">Certificados</a><li>
+                        <li class="nav-item mx-0 mx-lg-1"><a class="nav-link py-3 px-0 px-lg-3 rounded" href="{{ route('/home#aboutt') }}">Sobre mim</a></li>
+                        <li class="nav-item mx-0 mx-lg-1"><a class="nav-link py-3 px-0 px-lg-3 rounded" href="{{ route('/home#contact') }}">Entre em contato</a></li>
+                        <li class="nav-item mx-0 mx-lg-1"><a class="nav-link py-3 px-0 px-lg-3 rounded" href="{{ route('/promocoes') }}">Promoções</a><li>
                     </ul>
                 </div>
             </div>
@@ -106,8 +107,14 @@
                 </div>
                 <!-- About Section Content-->
                 <div class="row">
-                    <div class="col-lg-4 ms-auto"><p class="lead">Sou um amante da tecnologia! Trabalhei muito tempo como fotógrafo e há alguns anos tenho me dedicado em tempo integral a estudar programação web. Conheci Laravel, esse framework tão completo e com tantos níveis de seguração, com tudo isso foi fácil escolher ele pra começar uma carreira na programação</p></div>
-                    <div class="col-lg-4 me-auto"><p class="lead">Eu tenho me especializado em criar conteúdo do zero, layout, back-end, front-end e toda parte de criar um servidor e colocar minhas aplicações no ar. Eu trabalho com framework Laravel, uso docker, cloudflare pra deixar ainda mais seguro os meus projetos, uso serviço de hospedagem da Digital Ocean.</p></div>
+                    <div class="col-lg-4 ms-auto"><p class="lead">
+                        Sempre gostei muito de tecnologia em geral, quando entrei no mundo da programação fiquei apaixonado, agora eu não só ficava lendo sobre tecnologias eu mesmo criava. Criando desde de um HELLO WORLD até um e-commerce. O Processo de aprendizado foi bem difícil no início, aos poucos a gente vai entendendo mais sobre e fica mais dinâmico e intuitivo. 
+                    </p></div>
+
+                    <div class="col-lg-4 me-auto"><p class="lead">
+                        Aprendi muitas stacks até aqui, sempre buscando trabalhar usando as melhores práticas, as mais seguras e com o melhor desempenho. Escolhi o framework Laravel por uma indicação e vi que era uma ferramenta muito robusta onde posso trabalhar desde uma simples landing page até sites de grande porte
+                    </p></div>
+
                 </div>
                 <!-- About Section Button-->
                 <div class="text-center mt-4">
