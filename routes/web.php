@@ -17,3 +17,8 @@ Route::get('/', function () {
     return view('welcome');
 });
 
+
+Route::get('/promocoes', function () {
+    return view('promocoes');
+});
+
